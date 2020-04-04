@@ -1,2 +1,3 @@
 # CompleteNeuralNetwork
-Deep Learning Projects
+
+A simplified rundown of deep neural networking. 
